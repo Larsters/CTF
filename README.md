@@ -1,2 +1,2 @@
 # CTF
-CTF's from Uni or from CTF challenges online 
+CTF's from Uni or from CTF competitions online 
