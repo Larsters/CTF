@@ -1,0 +1,8 @@
+version: '3.7'
+services:
+  mandms:
+    build: ./
+    container_name: mandms
+    image: mandms
+    container_name: mandms_container
+    network_mode: bridge
